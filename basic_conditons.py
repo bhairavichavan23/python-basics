@@ -16,12 +16,14 @@ else:
    print('zero')   
 
 #fizzbuzz
-y=9
-if y% 3 == 0 :
-   print('frizz')
-elif y% 5 == 0:
-   print('Buzz')
-elif y% 3 == 0 and y% 5 == 0 :
-   print('FizzBuzz')
+y = 9
+
+if y % 3 == 0 and y % 5 == 0:
+    print("FizzBuzz")
+elif y % 3 == 0:
+    print("Fizz")
+elif y % 5 == 0:
+    print("Buzz")
 else:
-   print('y')
+    print("y")
+   
