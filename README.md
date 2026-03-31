@@ -12,7 +12,7 @@ This repository contains my daily Python practice.
 - Variables
 - Input/Output
 - Conditions 
-- Loops 
+- Loops  
 
 ## Goal:
 To build a strong foundation for cybersecurity.
