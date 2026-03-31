@@ -11,8 +11,8 @@ This repository contains my daily Python practice.
 ## Topics covered:
 - Variables
 - Input/Output
-- Conditions (coming soon)
-- Loops (coming soon)
+- Conditions 
+- Loops 
 
 ## Goal:
 To build a strong foundation for cybersecurity.
