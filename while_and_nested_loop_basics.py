@@ -103,3 +103,31 @@ for i in range(1, rows+1):
         num += 1
         j += 1
     print()
+
+# multiplication table
+rows=5
+columns=5
+for i in range(1,rows+1):
+   for j in range(1,columns+1):
+      num=i*j
+      print(num ,end=" ")
+   print()
+
+# center triangle
+row=5
+for i in range (1,rows+1):
+   for j in range (rows - i):
+      print( " ", end="")
+   for j in range (2*i -1):
+      print("*", end="")
+   print()
+
+# star grid
+rows=5
+columns=5
+symbol=("*")
+
+for i in range (1,rows+1):
+   for j in range (1,columns+1):
+      print(symbol,end=" ")
+   print()
